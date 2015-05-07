@@ -13,4 +13,9 @@ while(synergy) {
 
 	var synergy  = RealTimeReactiveIncrementerFunc(1);
 
+	synergy++;
+	print "how is bmw?"
+	print "It's going really well, I like it here a lot."
+	print "Working on some cool projects, collabing"
+
 }
