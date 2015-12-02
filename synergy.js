@@ -17,5 +17,5 @@ while(synergy) {
 	print "how is bmw?"
 	print "It's going really well, I like it here a lot."
 	print "Working on some cool projects, collabing"
-
+	print "What up playa?"
 }
